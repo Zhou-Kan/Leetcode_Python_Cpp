@@ -69,10 +69,4 @@ public class LRU {
         }
     }
 
-    public static void main(String[] args) {
-        LRU test = new LRU(3);
-        test.put(0, 0);
-        test.put(1, 1);
-        System.out.println(test.keys);
-    }
 }

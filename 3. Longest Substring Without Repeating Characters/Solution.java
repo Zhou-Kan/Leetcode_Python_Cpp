@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Solution {
 
     public int lengthOfLongestSubstring(String s) {
         Map<Character, Integer> map = new HashMap<>();
@@ -22,8 +22,5 @@ public class Main {
         
         return ret;
     }
-    public static void main(String[] args) {
-        Main test1 = new Main();
-        System.out.println(test1.lengthOfLongestSubstring("abcabcbb"));
-    }
+
 }

@@ -1,4 +1,4 @@
-public class Main {
+public class Solution {
     class ListNode {
         int val;
         ListNode next;
@@ -22,8 +22,5 @@ public class Main {
             cur = nextNode;
         }
         return prev;
-    }
-    public static void main(String[] args) {
-        
     }
 }
