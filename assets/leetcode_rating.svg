@@ -45,10 +45,10 @@
 
   
     <text x="72" y="22" font-size="12" fill="#6b7280">Rating: <tspan font-weight="600" fill="#6366f1">1785</tspan></text>
-    <text x="202" y="22" font-size="12" fill="#6b7280">Rank: <tspan font-weight="600" fill="#374151">#77790</tspan></text>
+    <text x="202" y="22" font-size="12" fill="#6b7280">Rank: <tspan font-weight="600" fill="#374151">#78139</tspan></text>
     <text x="332" y="22" font-size="12" fill="#6b7280">Top <tspan font-weight="600" fill="#374151">9.0%</tspan></text>
     <text x="442" y="22" font-size="12" fill="#6b7280">Contests: <tspan font-weight="600" fill="#374151">28</tspan></text>
     
     
-  <text x="832" y="356" text-anchor="end" font-size="10" fill="#d1d5db">Updated 2026-09-28 · leetcode.com/ZhouKan</text>
+  <text x="832" y="356" text-anchor="end" font-size="10" fill="#d1d5db">Updated 2026-10-05 · leetcode.com/ZhouKan</text>
 </svg>
